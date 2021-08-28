@@ -1,4 +1,4 @@
-
+// InsertSort
 void InsertSort(vector<int>& v) {
 	int key, j;
 	for (int i = 1; i < v.size(); i++) {
