@@ -22,6 +22,28 @@
 
 12.along with
 
-13.cause the loop to terminate
+13.cause the **loop** to **terminate**
 
 14.**best-case/worst-case/average-case** running time
+
+15.**constant-time** instruction/operation
+
+16.provide a **guarantee** that
+
+17.**on average**
+
+18.**yield** an expected running time
+
+19.**order/rate of growth**
+
+20.**incremental** approach
+
+21.**bottom out**(terminate the recursion)
+
+22.**motif**
+
+23.**prior to**
+
+24.**recurrence (equation)**
+
+25.straightforward
