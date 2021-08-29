@@ -11,8 +11,8 @@ void Merge(vector<int>& v, int p, int q, int r) {
 		R.push_back(v[q + j + 1]);
 	}
 	// Sentinels are set so that we need not to frequently check if i or j overflows.
-	L.push_back(INF);
-	R.push_back(INF);
+	L.push_back(INF_MAX);
+	R.push_back(INF_MAX);
 	i = 0;
 	j = 0;
 	for (int k = p; k <= r; k++) {
